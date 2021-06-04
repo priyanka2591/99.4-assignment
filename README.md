@@ -16,8 +16,8 @@ The colab files have been named after naming convention - "_trialcount_" +  "_nu
 ![trial2](https://user-images.githubusercontent.com/84949894/120839267-5b1f4e80-c586-11eb-80d8-1ef6e55f4d97.PNG)
 ![trial3](https://user-images.githubusercontent.com/84949894/120839288-5fe40280-c586-11eb-8730-c3d529d59835.PNG)
 ![trial4](https://user-images.githubusercontent.com/84949894/120839299-62def300-c586-11eb-8982-1da215797c34.PNG)
-![trial6](https://user-images.githubusercontent.com/84949894/120839301-64a8b680-c586-11eb-8d3a-ea723af2ebc3.PNG)
-6) Receptive field calculations
+![trial6](https://user-images.githubusercontent.com/84949894/120839301-64a8b680-c586-11eb-8d3a-ea723af2ebc3.PNG) <br>
+6) Receptive field calculations <br>
 ![Receptive field calculation](https://user-images.githubusercontent.com/84949894/120839307-66727a00-c586-11eb-8d15-26baa29d090a.PNG)
 
 
